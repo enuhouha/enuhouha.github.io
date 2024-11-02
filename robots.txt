@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://enuhouha.github.io/AnN/sitemap_index.txt
+Sitemap: https://enuhouha.github.io/ZpV/sitemap_index.txt
+Sitemap: https://enuhouha.github.io/bMV/sitemap_index.txt
+Sitemap: https://enuhouha.github.io/scM/sitemap_index.txt
